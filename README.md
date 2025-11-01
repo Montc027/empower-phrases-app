@@ -1,6 +1,7 @@
 # 🌱 Empowering Phrases App
 
-Welcome! This is a simple, responsive web app where you can create, read, update, and delete empowering phrases, each one tied to an author and an image. It's built with **React.js 19** and follows the **UI Atomic Design** in Figma to keep everything modular and scalable.
+Welcome! This is a simple, responsive web app where you can create, read, update, and delete empowering phrases, each one tied to an author and an image. It's built with **React.js 19** and follows the **UI Atomic Design** in Figma to keep everything modular and scalable. 
+https://gardenofthoughts.netlify.app/
 
 ---
 ## 🔍 Sneak Peek
